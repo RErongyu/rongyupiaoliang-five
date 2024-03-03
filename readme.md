@@ -1,0 +1,1 @@
+Supports automated deployment and continuous integration, improving development efficiency and product quality
